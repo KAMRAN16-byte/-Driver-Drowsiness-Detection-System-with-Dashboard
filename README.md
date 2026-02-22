@@ -260,9 +260,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Muhammad Kamran**
 - 🎓 B.E. Computer Science Engineering
-- 📧 Email: [your-email@example.com]
-- 🔗 LinkedIn: [Your LinkedIn Profile]
-- 🐦 Twitter: [@yourhandle]
+- 📧 Email: mdkamran_16@outtlook.com
+- 🔗 LinkedIn: www.linkedin.com/in/md-jabeer-kamran-b45162272
 
 ### Acknowledgments
 - Thanks to all contributors
